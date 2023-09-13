@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+.env
+*.png
+*.csv
+data/*
+!data
+*.xlsx
+*.lock
+src/python/charts/*
+node_modules*
